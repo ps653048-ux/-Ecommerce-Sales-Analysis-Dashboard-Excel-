@@ -1,4 +1,5 @@
-📊 -Ecommerce-Sales-Analysis-Dashboard-Excel
+📊 -Ecommerce-Sales-Analysis-Dashboard-Excel. 
+
 The dashboard provides a consolidated view of sales, profit, orders, quantity, and profitability across categories, regions, and time.
 The goal of this project is to demonstrate how Excel can be effectively used for end-to-end data analysis and reporting, from raw data to actionable insights.
 
